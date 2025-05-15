@@ -65,7 +65,7 @@ layout: default
 
 송형준(Hyeongjun Song) 석사과정 3기
 
-임소진(Sojin Lim) 석사과정 3기
+임소진(Sojin Lim) 석사과정 3기 gch30725@hanyang.ac.kr
 
 박형주(Hyungjoo Park) 석사과정 3기
 
